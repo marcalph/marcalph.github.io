@@ -34,3 +34,8 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
   bundle install
   bundle exec jekyll serve
 ```
+
+## upgrading the theme
+```
+https://mmistakes.github.io/minimal-mistakes/docs/upgrading/
+```
