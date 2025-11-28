@@ -6,3 +6,4 @@ docs/
 .gems/
 .direnv/
 result
+.DS_Store

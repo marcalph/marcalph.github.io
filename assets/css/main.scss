@@ -6,7 +6,7 @@
 
 // Override neon skin's pink with purple
 $primary-color: #9333ea !default;      // Purple (was #f72585)
-// $link-color: #9333ea !default;          // Lighter purple for links
+$background-color: #0a0a0a !default;      
 
 @import "minimal-mistakes/skins/neon";
 @import "minimal-mistakes";
