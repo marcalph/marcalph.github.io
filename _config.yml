@@ -63,7 +63,7 @@ author:
   name    : "First Lastname"
   avatar  : "/assets/images/bio-photo.jpg"
   bio     : "An ongoing effort to discretize between hobbies and learning."
-  location: "Somewhere, Europe" 
+  location: "not far from the point" 
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
