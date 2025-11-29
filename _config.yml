@@ -16,12 +16,12 @@
 title: marcalph's notes
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  An ongoing effort to discretize between hobbies and learning.
+  Very meaningful description
 twitter_username: username
 github_username: marcalph
 minimal_mistakes_skin: neon
 search: true
-logo: "assets/images/logo.png"
+logo: "assets/images/mastheadlogo.jpg"
 breadcrumbs: true
 
 
@@ -60,14 +60,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name    : "First Lastname"
-  avatar  : "/assets/images/bio-photo.jpg"
-  bio     : "An ongoing effort to discretize between hobbies and learning."
+  name    : "@marcalph"
+  avatar  : "/assets/images/pixelbio.jpg"
+  bio     : "My ongoing effort to blur projects, hobbies and learning."
   location: "not far from the point" 
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/marcalph"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/marc-alphonsus/"
